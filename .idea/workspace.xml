@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73ed28c1-8677-4126-a936-82991ad6d8ff" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode24.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode206.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +46,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/yuTest&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.18045977&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="JUnit.Leetcode14.test">
     <configuration name="Leetcode14.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yuTest" />
@@ -52,44 +67,73 @@
       <option name="MAIN_CLASS_NAME" value="Leetcode14" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
+=======
+  <component name="RunManager" selected="JUnit.Leetcode7.test">
+    <configuration name="Leetcode19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode19" />
+      <option name="TEST_OBJECT" value="class" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="Leetcode206.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yuTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Leetcode206" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode28.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="yuTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Leetcode28" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+=======
     <configuration name="Leetcode40.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yuTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Leetcode40" />
+>>>>>>> Stashed changes
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
+    <configuration name="Leetcode28.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode28" />
+=======
+    <configuration name="Leetcode46.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode46" />
+>>>>>>> Stashed changes
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< Updated upstream
+    <configuration name="Leetcode40.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode40" />
+=======
     <configuration name="Leetcode5.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yuTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Leetcode5" />
+>>>>>>> Stashed changes
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode7.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yuTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode7" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -98,18 +142,25 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="JUnit.Leetcode14.test" />
         <item itemvalue="JUnit.Leetcode206.test" />
         <item itemvalue="JUnit.Leetcode5.test" />
         <item itemvalue="JUnit.Leetcode40.test" />
         <item itemvalue="JUnit.Leetcode28.test" />
+=======
+        <item itemvalue="JUnit.Leetcode7.test" />
+        <item itemvalue="JUnit.Leetcode46.test" />
+        <item itemvalue="JUnit.Leetcode40.test" />
+        <item itemvalue="JUnit.Leetcode19" />
+        <item itemvalue="JUnit.Leetcode5.test" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73ed28c1-8677-4126-a936-82991ad6d8ff" name="Changes" comment="" />
       <created>1660830723168</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -128,6 +179,7 @@
       </map>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -144,4 +196,6 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
